@@ -10,7 +10,7 @@ from __future__ import print_function
 #  is number 1
 #  is number 2
 #James is number 3
-#  is number 4
+#  Nate is number 4
 #  is number 5
 #  is number 6
 #Alex is number 7
@@ -24,11 +24,7 @@ from __future__ import print_function
 # Computer Science and Software Engineering
 # PLTW AP CS Principles
 # (c)2014 Project Lead The Way, Inc.
-<<<<<<< HEAD
-#Nate is number4 donut steel
-=======
 # bow before me 
->>>>>>> refs/remotes/CSPHomesteadHighSchool/master
 # Activity 1.3.9 Tools for Collaboration
 # Project 1.3.10 Collaborating on a Project
 # 
